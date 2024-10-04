@@ -5,7 +5,7 @@ import { IoMdMail } from "react-icons/io";
 function Footer() {
   const currentYear = new Date().getFullYear();
   return (
-    <div className='logo flex justify-center items-center flex-col lg:flex-row lg:justify-between py-4 px-40 bg-[#5E6572] h-32 border-[3px] border-[#1C2321]' >
+    <div className='logo flex justify-center items-center flex-col lg:flex-row lg:justify-between py-4 lg:px-40 bg-[#5E6572] h-32 border-[3px] border-[#1C2321]' >
       <div className='' >
 
 

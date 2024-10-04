@@ -13,7 +13,7 @@ function ProjectCard({src ,link ,h3 ,p}) {
     <img className='hover:blur-sm     bg-cover  ' src={src} alt={`${h3} logo`}/>
     
     </a>
-    <h3 className='text-xl font-semibold pl-2 ' >{h3}</h3>
+    <h3 className='text-xl font-semibold pl-2 pt-2 ' >{h3}</h3>
     <p className='pl-2 font-medium'>{p}</p>
     </motion.div>
    

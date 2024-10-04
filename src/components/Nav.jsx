@@ -6,7 +6,7 @@ function Nav() {
   return (
     <div className='w-full  flex justify-center pt-5 fixed  z-[1000] opacity-70 '>
       
-      <nav className='bg-[#5E6572] w-[70%]  md:w-[70%] lg:w-fit lg:px-1 lg:h-16  rounded-full h-12 flex justify-center items-center gap-4 lg:gap-24 border-[3px] border-[#1C2321] '>
+      <nav className='bg-[#5E6572] w-fit px-1  md:w-[70%] lg:w-fit lg:px-1 lg:h-16  rounded-full h-12 flex justify-center items-center gap-4 lg:gap-24 border-[3px] border-[#1C2321] '>
 
        
         <NavLink
