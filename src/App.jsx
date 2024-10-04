@@ -9,7 +9,7 @@ import Contact from './Pages/Contact';
 
 function App() {
   return (
-    <div className='bg-[#EEF1EF]'>
+    <div className='bg-white'>
       <Nav /> 
       <Routes>
         <Route path="/" element={<Home />} /> {/* Home page route */}
